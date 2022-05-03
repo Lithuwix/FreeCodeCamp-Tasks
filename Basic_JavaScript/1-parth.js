@@ -12,3 +12,10 @@ let myName;
 // b = a;
 
 let a = 9;
+
+// const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+
+
+let myStr;
+myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
